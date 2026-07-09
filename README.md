@@ -117,8 +117,13 @@ the official MRAC release.
 
 ## Related
 
-<!-- TODO: link the Primary Learning Map explorer site once live -->
-<!-- TODO: link the Marble taxonomy crosswalk & findings post once live -->
+- **[Primary Learning Map (Australia)](https://learningmap.au)** — a
+  browsable site built on this dataset and the open Marble Skill Taxonomy:
+  one page per topic with prerequisite chains, mastery evidence, and
+  candidate AC9 alignments.
+- **[Marble Skill Taxonomy](https://github.com/withmarbleapp/os-taxonomy)**
+  — 1,590 primary-years micro-topics in a prerequisite graph; this dataset
+  is contributed there as the `acara-v9` standards source.
 
 ## Changelog
 
