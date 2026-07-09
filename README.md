@@ -123,7 +123,7 @@ the official MRAC release.
   candidate AC9 alignments.
 - **[Marble Skill Taxonomy](https://github.com/withmarbleapp/os-taxonomy)**
   — 1,590 primary-years micro-topics in a prerequisite graph; this dataset
-  is contributed there as the `acara-v9` standards source.
+  has been proposed there as the `acara-v9` standards source.
 
 ## Changelog
 
